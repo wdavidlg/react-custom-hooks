@@ -1,3 +1,3 @@
-#Nota
+# Some Custom Hooks
 
-Contiene varios custom hooks.
+Contains some custom hooks
